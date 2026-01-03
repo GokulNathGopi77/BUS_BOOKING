@@ -34,9 +34,7 @@
   - Viewing list of available buses and booking a reservation
   - Only logged in user can access his reservations, profile updation and other features.
 
-## Contributors
 
-- **gokulnath** — Project owner. This project was developed by me; this is my own project.
 
 ## Installation & Run
 
