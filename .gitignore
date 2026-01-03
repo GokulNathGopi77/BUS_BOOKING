@@ -1,0 +1,30 @@
+/.metadata/
+
+# Maven / Java
+/target/
+**/target/
+*.class
+*.log
+*.jar
+*.war
+*.ear
+*.iml
+.idea/
+.vscode/
+.DS_Store
+.gradle/
+/build/
+/*.log
+/*.tmp
+/*.env
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# IntelliJ
+out/
+
+# OS files
+Thumbs.db
